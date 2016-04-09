@@ -1,0 +1,8 @@
+body { 
+	padding-top: 70px; 
+}
+
+section {
+	border : 2px solid lightGrey;
+	border-radius: 20px;
+}
